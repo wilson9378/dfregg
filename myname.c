@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("�d�۽n\n");
+    printf("吳彥緯\n");
 }
